@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK.  The error message often mentions something about the Android build failing due to a problem with the `android/app/build.gradle` file, specifically an issue with the minSdkVersion. The issue might arise from incompatibility between the Expo SDK version, the Android build tools, and/or the specified minSdkVersion.
